@@ -1,5 +1,5 @@
 baseURL = 'https://n3m0.fr'
-theme = "hugo-theme"
+theme = "myland-theme"
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 [languages]
