@@ -1,0 +1,3 @@
+[submodule "themes/myland-theme"]
+	path = themes/myland-theme
+	url = https://github.com/CaptainBoulbi/hugo-theme.git
