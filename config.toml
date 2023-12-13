@@ -1,0 +1,28 @@
+baseURL = 'https://n3m0.fr'
+theme = "hugo-theme"
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+[languages]
+  [languages.fr]
+    languageCode = 'fr'
+    languageDirection = 'ltr'
+    languageName = 'Français'
+    title = 'N3m0 territoire'
+  [languages.en]
+    languageCode = 'en'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = "N3m0's Land"
+[params]
+  [params.author]
+    email = 'n3m0@n3m0.fr'
+    name = 'N3m0'
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  theme = 'themes'
+[outputs]
+  home = ['html', 'rss']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
