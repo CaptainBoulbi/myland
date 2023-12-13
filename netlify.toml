@@ -1,9 +1,9 @@
 [[redirects]]
   from = “/en/*”
-  to = “/en/404/”
+  to = “/en/404”
   status = 404
 
 [[redirects]]
   from = “/fr/*”
-  to = “/fr/404/”
+  to = “/fr/404”
   status = 404
