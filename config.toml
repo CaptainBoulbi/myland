@@ -26,5 +26,3 @@ defaultContentLanguageInSubdir = true
   section = ['html']
   taxonomy = ['html']
   term = ['html']
-[markup.goldmark.renderer]
-  unsafe = true
