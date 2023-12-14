@@ -7,7 +7,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'fr'
     languageDirection = 'ltr'
     languageName = 'Français'
-    title = 'N3m0 territoire'
+    title = 'territoire de N3m0'
   [languages.en]
     languageCode = 'en'
     languageDirection = 'ltr'
