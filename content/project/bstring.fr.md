@@ -8,3 +8,4 @@ progress: 10
 github: https://github.com/CaptainBoulbi/bstring
 ---
 
+### Bstring d'accueil en cours de construction.

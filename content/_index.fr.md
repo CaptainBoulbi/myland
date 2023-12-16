@@ -5,4 +5,4 @@ title: 'Accueil'
 # Accueil
 ---
 
-Page d'accueil en cours de construction.
+### Page d'accueil en cours de construction.
