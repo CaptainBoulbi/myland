@@ -8,4 +8,4 @@ progress: 85
 github: https://github.com/CaptainBoulbi/linuxrc
 ---
 
-### Linuxrc d'accueil en cours de construction.
+### Linuxrc page en cours de construction.

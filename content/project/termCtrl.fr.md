@@ -8,4 +8,4 @@ progress: 100
 github: https://github.com/CaptainBoulbi/termCtrl
 ---
 
-### TermCtrl d'accueil en cours de construction.
+### TermCtrl page en cours de construction.
