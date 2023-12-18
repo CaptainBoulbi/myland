@@ -2,4 +2,4 @@
 title: "Game"
 ---
 
-### Portfolio page in building state.
+### Game page in building state.
