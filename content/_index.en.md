@@ -31,7 +31,7 @@ You can find out more about my team of **elite programmers** on our [site](https
 
 Programming languages and tools I master :
 
-| main languages | graphic programming | secondary languages | languages I'd like to learn | Tools  |
+| Main languages | Graphic programming | Secondary languages | Languages I'd like to learn | Tools  |
 |:--------------:|:-------------------:|:-------------------:|:---------------------------:|:------:|
 | C              | OpenGL              | Java                | Go                          | Git    |
 | C++            | GLSL                | PHP                 | Zig                         | Linux  |
