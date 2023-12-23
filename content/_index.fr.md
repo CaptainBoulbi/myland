@@ -24,7 +24,7 @@ Sur ce site, vous découvrirez mes [projets](project/) passés et en cours avec 
 les [jeux](game/) que j'ai créé avec mon équipe,
 ainsi que des **posts** de [blog](blog/) sur mes **expériences** et sur des sujets qui m'intéressent.
 
-Vous pouvez en apprendre plus sur mon équipe de **programmeurs** sur notre [site](https://captainboulbi.github.io/).
+Vous pouvez en apprendre plus sur mon équipe de **programmeurs d'élite** sur notre [site](https://captainboulbi.github.io/).
 
 ### COMPÉTENCES
 ---
