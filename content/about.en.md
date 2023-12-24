@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-Voici mes liens sur d'autre site.
+Here are my links to other sites.
 
-- **[CV](/CV.pdf)**
+- **[CV](/CV.pdf)** _(in french)_
 
 - **Mail** : [hamza.nanaha@hotmail.com](mailto:hamza.nanaha@hotmail.com)
 
@@ -18,7 +18,7 @@ Voici mes liens sur d'autre site.
 
 - **Blog RSS feed** : [en](/en/index.xml) - [fr](/fr/index.xml)
 
-- **Team website** : [BB.corp](https://captainboulbi.github.io/)
+- **My Team's website** : [BB.corp](https://captainboulbi.github.io/)
 
 - **YouTube** : [BoulbiCode](https://www.youtube.com/@boulbicode)
 

@@ -20,11 +20,11 @@ I have a **passion** for **graphic programming**,
 displaying beautiful **interactive** images on a screen is something that technically interests me enormously.
 Creating little **video games** with my team is definitely one of my **goals**.
 
-On this site, you will discover my past and current [projects](project/) with **examples** and **demos**,
+On this website, you will discover my past and current [projects](project/) with **examples** and **demos**,
 the [games](game/) I've created with my team,
 as well as [blog](blog/) **posts** on my **experiences** and on subjects that interest me.
 
-You can find out more about my team of **elite programmers** on our [site](https://captainboulbi.github.io/).
+You can find out more about my team of **elite programmers** on our [website](https://captainboulbi.github.io/).
 
 ### SKILLS
 ---
