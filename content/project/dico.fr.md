@@ -12,3 +12,5 @@ github: https://github.com/CaptainBoulbi/dico
 
 - trouver dictionnaire anglais bien pour le scrapping
 - categories traduction pour chaque mot
+
+- contenu de la page

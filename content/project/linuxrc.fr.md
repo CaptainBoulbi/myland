@@ -9,3 +9,5 @@ github: https://github.com/CaptainBoulbi/linuxrc
 ---
 
 ### Linuxrc page en cours de construction.
+
+- TODO: contenu
