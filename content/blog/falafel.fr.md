@@ -9,46 +9,46 @@ summary: "Recette originale de falafel maison"
 
 ### Falafel
 
-- pois chiche
-- oignon
-- ail
-- sel
-- cumin
-- coriandre en poudre
-- huile d'olive
+{{< course >}} pois chiche
+{{< course >}} oignon
+{{< course >}} ail
+{{< course >}} sel
+{{< course >}} cumin
+{{< course >}} coriandre en poudre
+{{< course >}} huile d'olive
 
 ### Tahini
 
-- sésame
-- huile végétale neutre
-- huile de sésame
-- ail
-- citron
-- sel
-- poivre
-- cumin
-- crème fraîche
+{{< course >}} sésame
+{{< course >}} huile végétale neutre
+{{< course >}} huile de sésame
+{{< course >}} ail
+{{< course >}} citron
+{{< course >}} sel
+{{< course >}} poivre
+{{< course >}} cumin
+{{< course >}} crème fraîche
 
 ### Pain
 
-- farine
-- levure
-- sel
-- sucre ou miel
-- un verre d'eau chaude
-- huile d'olive
+{{< course >}} farine
+{{< course >}} levure
+{{< course >}} sel
+{{< course >}} sucre ou miel
+{{< course >}} un verre d'eau chaude
+{{< course >}} huile d'olive
 
 ### Crudités
 
 Crudités à titre d'exemple.
 Prenez les crudités qui vous font plaisir.
 
-- tomate
-- oignon
-- piment
-- cornichon
-- menthe
-- persil
+{{< course >}} tomate
+{{< course >}} oignon
+{{< course >}} piment
+{{< course >}} cornichon
+{{< course >}} menthe
+{{< course >}} persil
 
 ## Recette :
 

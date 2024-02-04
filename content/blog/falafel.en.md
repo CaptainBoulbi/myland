@@ -10,46 +10,46 @@ summary: "Original homemade falafel recipe"
 
 ### Falafel
 
-- chick peas
-- onion
-- garlic
-- salt
-- cumin
-- coriander powder
-- olive oil
+{{< course >}} chick peas
+{{< course >}} onion
+{{< course >}} garlic
+{{< course >}} salt
+{{< course >}} cumin
+{{< course >}} coriander powder
+{{< course >}} olive oil
 
 ### Tahini
 
-- sesame seeds
-- neutral vegetable oil
-- sesame oil
-- garlic
-- lemon
-- salt
-- pepper
-- cumin
-- fresh cream
+{{< course >}} sesame seeds
+{{< course >}} neutral vegetable oil
+{{< course >}} sesame oil
+{{< course >}} garlic
+{{< course >}} lemon
+{{< course >}} salt
+{{< course >}} pepper
+{{< course >}} cumin
+{{< course >}} fresh cream
 
 ### Bread
 
-- flour
-- yeast
-- salt
-- sugar or honey
-- one cup of hot water
-- olive oil
+{{< course >}} flour
+{{< course >}} yeast
+{{< course >}} salt
+{{< course >}} sugar or honey
+{{< course >}} one cup of hot water
+{{< course >}} olive oil
 
 ### Vegetables
 
 Vegetables as an example.
 Take the vegetables that you like.
 
-- tomato
-- onion
-- chilli
-- gherkin
-- mint
-- parsley
+{{< course >}} tomato
+{{< course >}} onion
+{{< course >}} chilli
+{{< course >}} gherkin
+{{< course >}} mint
+{{< course >}} parsley
 
 ## Recipe :
 
