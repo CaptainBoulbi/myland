@@ -29,14 +29,14 @@ summary: "Recette originale de falafel maison"
 - cumin
 - crème fraîche
 
-### Pain _(pour 4 portions)_
+### Pain
 
-- 200g de farine
-- 1 cc de levure de boulanger déshydratée
-- 1 cc de sel
-- 1 pincée de sucre
-- 100 ml d'eau
-- 1 cc d'huile d'olive
+- farine
+- levure
+- sel
+- sucre ou miel
+- un verre d'eau chaude
+- huile d'olive
 
 ### Crudités
 
@@ -58,15 +58,12 @@ Prenez les crudités qui vous font plaisir.
 
 ### Pain
 
-1. Diluez la levure de boulanger dans l'eau avec une pincée de sucre.
-1. Laissez reposer pendant 10 minutes.
-1. Mettez la farine et le sel dans un bol, mélangez bien et ajoutez l'eau avec levure.
-1. Pétrissez jusqu'à formation d'une boule.
-1. Mettez la boule sur le plan de travail et pétrissez 5 minutes.
-1. Huilez la boule obtenue et couvrez d'un film alimentaire.
-1. Laissez reposer au moins 1 heure.
-1. Divisez la pâte en 4 après avoir chassé l'air, puis étalez.
-1. Faites cuire dans une poêle chaude sans matière grasse pendant 3 à 5 minutes en retournant le pain.
+1. Mélangez la levure et le miel/sucre dans l'eau chaude et laisser reposer 15min.
+1. Mélangez le mélange eau/levure avec la farine et l'huile d'olive.
+1. Pétrir la pâte pendant 15min.
+1. Laissez reposer 15min.
+1. Former les pains avec 1cm d'épaisseur puis laisser les reposer 5min.
+1. Cuire les pains à la poêle.
 
 ### Falafel
 

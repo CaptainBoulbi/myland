@@ -30,14 +30,14 @@ summary: "Original homemade falafel recipe"
 - cumin
 - fresh cream
 
-### Bread _(for 4 portions)_
+### Bread
 
-- 200g flour
-- 1 teaspoon dried baker's yeast
-- 1 teaspoon salt
-- 1 pinch sugar
-- 100ml water
-- 1 tsp olive oil
+- flour
+- yeast
+- salt
+- sugar or honey
+- one cup of hot water
+- olive oil
 
 ### Vegetables
 
@@ -59,15 +59,12 @@ Take the vegetables that you like.
 
 ### Bread
 
-1. Dilute the baker's yeast in the water with a pinch of sugar.
-1. Leave to stand for 10 minutes.
-1. Place the flour and salt in a bowl, mix well and add the water and yeast.
-1. Knead until a ball forms.
-1. Place the ball on the work surface and knead for 5 minutes.
-1. Oil the ball and cover with cling film.
-1. Leave to rest for at least 1 hour.
-1. After removing the air, divide the dough into 4 and roll out.
-1. Cook in a hot pan without fat for 3 to 5 minutes, turning the bread over.
+1. Mix the yeast and honey/sugar in the hot water and leave to stand for 15min.
+1. Mix the water/yeast mixture with the flour and olive oil.
+1. Knead the dough for 15min.
+1. Leave to rest for 15min.
+1. Shape the loaves to a thickness of 1cm and leave to rest for 5min.
+1. Cook the loaves in a frying pan.
 
 ### Falafel
 
