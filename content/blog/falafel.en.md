@@ -59,10 +59,10 @@ Take the vegetables that you like.
 
 ### Bread
 
-1. Mix the yeast and honey/sugar in the hot water and leave to stand for 15min.
+1. Mix the yeast and honey/sugar in the hot water and leave to stand for 30min.
 1. Mix the water/yeast mixture with the flour and olive oil.
 1. Knead the dough for 15min.
-1. Leave to rest for 15min.
+1. Leave to rest for 1H.
 1. Shape the loaves to a thickness of 1cm and leave to rest for 5min.
 1. Cook the loaves in a frying pan.
 

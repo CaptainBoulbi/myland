@@ -58,10 +58,10 @@ Prenez les crudités qui vous font plaisir.
 
 ### Pain
 
-1. Mélangez la levure et le miel/sucre dans l'eau chaude et laisser reposer 15min.
+1. Mélangez la levure et le miel/sucre dans l'eau chaude et laisser reposer 30min.
 1. Mélangez le mélange eau/levure avec la farine et l'huile d'olive.
 1. Pétrir la pâte pendant 15min.
-1. Laissez reposer 15min.
+1. Laissez reposer 1H.
 1. Former les pains avec 1cm d'épaisseur puis laisser les reposer 5min.
 1. Cuire les pains à la poêle.
 
