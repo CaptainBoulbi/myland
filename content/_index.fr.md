@@ -48,7 +48,7 @@ Voici les Langages que j'utilise le plus, générés par [wakatime](https://waka
 [//]: # "mettre le lien vers le cv ailleurs"
 
 Je suis à la recherche d'une **alternance** dans le **développement logiciel**,
-n'hésitez pas de jeter un coup d'oeil à mon [CV](/CV.pdf).
+n'hésitez pas à jeter un coup d'oeil à mon [CV](/CV.pdf).
 
 Si mon profil vous **intéresse** et vous pensez que je peux contribuer à vos projets d'une quelconque manière,
 **contactez** moi par [mail](mailto:hamza.nanaha@hotmail.com) pour pouvoir en **discuter** plus en détail.
