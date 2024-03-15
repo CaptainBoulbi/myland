@@ -10,4 +10,4 @@ github: https://github.com/CaptainBoulbi/myland
 
 ### MyLand page en cours de construction.
 
-- TODO: contenu
+- N3m0 c'est moi, et voici le contenu de mon site personnel

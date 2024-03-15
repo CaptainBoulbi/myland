@@ -8,6 +8,6 @@ progress: 100
 github: https://github.com/CaptainBoulbi/termCtrl
 ---
 
-### TermCtrl page in building state.
+### TermCtrl.
 
-- TODO: content
+- termCtrl is a small library that lets you take control of the terminal for your applications. It allows you to display text in color, bold, italic and more. It lets you move the cursor, so you can modify text already displayed and take keyboard input without hitting enter. 

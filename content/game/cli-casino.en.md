@@ -8,4 +8,6 @@ progress: 50
 github: https://github.com/CaptainBoulbi/cli-casino
 ---
 
-TODO: content
+### Cli-Casino.
+
+- It's a small casino game client with 4 different games

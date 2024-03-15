@@ -8,9 +8,9 @@ progress: 70
 github: https://github.com/CaptainBoulbi/dico
 ---
 
-## TODO:
+## Dico.
 
 - trouver dictionnaire anglais bien pour le scrapping
 - categories traduction pour chaque mot
 
-- contenu de la page
+- Dico est un dictionnaire francais local, un script de scrapping est a disposition pour recuperer tout les mots est le definition et formater le fichier comme il faut.
