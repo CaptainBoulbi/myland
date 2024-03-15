@@ -8,4 +8,6 @@ progress: 100
 github: https://github.com/CaptainBoulbi/mineur
 ---
 
-TODO: contenu
+### Minesweeper.
+
+- Jeu du démineur avec différents niveaux de difficulté

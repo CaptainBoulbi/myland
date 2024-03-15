@@ -8,4 +8,8 @@ progress: 100
 github: https://github.com/CaptainBoulbi/flashcard
 ---
 
-- TODO: contenu
+### Flashcard.
+
+- Flashcard est un système de flashcard basé sur le système Leitner et inspiré de l'application anki.
+
+- Lorsque vous étudiez une carte, il choisira quand vous la montrer à nouveau en fonction de vos performances.

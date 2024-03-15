@@ -8,6 +8,6 @@ progress: 0
 github: https://github.com/CaptainBoulbi/proxy-ftp
 ---
 
-### Proxy FTP page en cours de construction.
+### Proxy FTP.
 
-- TODO: contenu
+- Projet universitaire visant à coder un proxy FTP

@@ -8,4 +8,5 @@ progress: 100
 github: https://github.com/CaptainBoulbi/mineur
 ---
 
-TODO: content
+### Minesweeper.
+- Minesweeper game with different difficulty levels

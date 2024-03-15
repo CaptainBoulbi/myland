@@ -8,6 +8,6 @@ progress: 100
 github: https://github.com/CaptainBoulbi/myland
 ---
 
-### MyLand page in building state.
+### MyLand.
 
-- TODO: content
+- N3m0 is me, and this is the content of my personal website

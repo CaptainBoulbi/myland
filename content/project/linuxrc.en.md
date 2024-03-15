@@ -8,6 +8,6 @@ progress: 85
 github: https://github.com/CaptainBoulbi/linuxrc
 ---
 
-### Linuxrc page in building state.
+### Linuxrc.
 
-- TODO: content
+- Scripts to facilitate the installation of custom Linux dependencies
