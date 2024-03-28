@@ -1,5 +1,5 @@
 ---
-title: "Fractale"
+title: "Fractouille"
 date: 2024-03-28T16:40:29+01:00
 status: "Finit"
 categories: ["c", "math", "experimental"]
