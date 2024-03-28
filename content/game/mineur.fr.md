@@ -1,5 +1,5 @@
 ---
-title: "Minesweeper"
+title: "Mineur"
 date: 2024-03-12T15:21:10+01:00
 status: "Achevé"
 themes: ["minigame"]
