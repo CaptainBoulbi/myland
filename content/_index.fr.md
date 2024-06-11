@@ -35,7 +35,7 @@ Langage de programmation et outils que je maîtrise :
 |:-------------------:|:-----------------------:|:--------------------:|:---------------------------------:|:------:|
 | C                   | OpenGL                  | Java                 | Go                                | Git    |
 | C++                 | GLSL                    | PHP                  | Zig                               | Linux  |
-| bash                |                         | SQL                  | vhdl                              | Docker |
+| bash                | Raylib                  | SQL                  | vhdl                              | Docker |
 
 Voici les Langages que j'utilise le plus, générés par [wakatime](https://wakatime.com/@_N3m0).
 
