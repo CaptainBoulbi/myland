@@ -12,6 +12,8 @@ Penger avec vos amis :
 
 ![game screenshot](/game/penger-party.png)
 
+testez le jeu au : [penger.party](https://penger.party)
+
 fait avec :
 
 - c -> wasm
