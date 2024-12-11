@@ -1,10 +1,10 @@
 ---
 title: "Genetic Algo"
 date: 2024-10-16T19:42:29+02:00
-status: "Ongoing"
+status: "Done"
 categories: ["c", "math"]
 summary: "Genetic algorithm-based path-finding program with graphical user interface"
-progress: 75
+progress: 100
 github: https://github.com/CaptainBoulbi/algo-genetique
 ---
 
