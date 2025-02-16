@@ -8,6 +8,6 @@ progress: 100
 github: https://github.com/CaptainBoulbi/algo-genetique
 ---
 
-### Genetic Algo page in building state.
+### Solving the traveler problem with a genetic algorithm
 
-- TODO: content
+![genetique](/project/genetique.gif)

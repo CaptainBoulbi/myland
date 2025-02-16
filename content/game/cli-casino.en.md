@@ -8,4 +8,11 @@ progress: 50
 github: https://github.com/CaptainBoulbi/cli-casino
 ---
 
-TODO: content
+Casino game in the terminal, 4 games are available:
+
+- Blackjack     
+- Roulette      
+- Slot machine
+- Ace race
+
+![cli casino](/game/cli-casino.gif)

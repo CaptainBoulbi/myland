@@ -8,4 +8,7 @@ progress: 100
 github: https://github.com/CaptainBoulbi/mineur
 ---
 
-TODO: contenu
+Petit démineur fait en C avec [RayLib](https://www.raylib.com/),
+parce que ma distribution Linux n'en avait pas par défaut.
+
+![minesweeper](/game/minesweeper-screenshot.png)

@@ -8,6 +8,8 @@ progress: 100
 github: https://github.com/CaptainBoulbi/fractouille
 ---
 
-### Fractale page en cours de construction.
+### Visualisation fractale
 
-- TODO: contenu
+Programme qui dessine une fractale et permet de modifier son angle.
+
+![fractale](/project/fractouille.gif)
