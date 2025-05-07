@@ -36,7 +36,7 @@ Langage de programmation et outils que je maîtrise :
 
 Voici les Langages que j'utilise le plus, générés par [wakatime](https://wakatime.com/@_N3m0).
 
-![Top Langages](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Languages)
+![Top Langages](https://github-readme-stats.vercel.app/api/wakatime/?username=_N3m0&layout=compact&theme=great-gatsby&langs_count=8&custom_title=Languages&v=2)
 
 J'aime entreprendre des projets et des idées qui me viennent à l'esprit
 et voir jusqu'où je peux les mener.
