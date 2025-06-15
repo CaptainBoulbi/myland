@@ -8,11 +8,9 @@ progress: 70
 github: https://github.com/CaptainBoulbi/dico
 ---
 
-Dico est un dictionnaire français local,
-un script de scrapping est disponible pour récupérer tous les mots
-et formater le fichier comme il faut.
+## TODO:
 
-Pour voir la définition d'un mot, faites :
-``dico <mot>```.
+- trouver dictionnaire anglais bien pour le scrapping
+- categories traduction pour chaque mot
 
-![dico](/project/dico.png)
+- contenu de la page

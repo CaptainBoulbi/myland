@@ -8,11 +8,4 @@ progress: 50
 github: https://github.com/CaptainBoulbi/cli-casino
 ---
 
-Jeu de casino dans le terminal, 4 jeu son disponible :
-
-- Blackjack     
-- Roulette      
-- Machine a sous
-- Course d'as
-
-![cli casino](/game/cli-casino.gif)
+TODO: contenu
